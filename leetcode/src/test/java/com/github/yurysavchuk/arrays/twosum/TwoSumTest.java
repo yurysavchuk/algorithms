@@ -1,4 +1,4 @@
-package com.github.yurysavchuk.twosum;
+package com.github.yurysavchuk.arrays.twosum;
 
 import org.junit.jupiter.api.Test;
 
